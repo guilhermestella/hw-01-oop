@@ -1,10 +1,10 @@
 # Paradigmas de Programacao
 
-## Declarativo
+## Imperativo
 * Procedural (Ex: C, Pascal)
 * Orientado a Objetos (Ex: Java, C#)
 
-## Imperativo
+## Declarativo
 * Funcional (Ex: Lisp, Haskell, Clojure)
 * Logico (Ex: Prolog)
 
